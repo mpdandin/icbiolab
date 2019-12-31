@@ -3,6 +3,20 @@ html {
     scroll-behavior: smooth; 
 
 }
+
+@media only screen and (max-width: 496px) {
+    .navbar-brand {
+        height: 70px;
+        width : 85%;
+    }
+ }
+
+ @media only screen and (max-width: 396px) {
+    .navbar-brand {
+        width : 80%;
+    }
+ }
+ 
 #container {
     width: 960px;
     margin: 0 auto;

@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://icbiolab.org/galleries/rss.xml</loc>
-  <lastmod>2019-12-31T18:20:00Z</lastmod>
+  <loc>https://www.icbiolab.org/galleries/rss.xml</loc>
+  <lastmod>2019-12-31T19:42:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://icbiolab.org/rss.xml</loc>
-  <lastmod>2019-12-31T18:20:00Z</lastmod>
+  <loc>https://www.icbiolab.org/rss.xml</loc>
+  <lastmod>2019-12-31T19:26:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://icbiolab.org/sitemap.xml</loc>
-  <lastmod>2019-12-31T18:20:00Z</lastmod>
+  <loc>https://www.icbiolab.org/sitemap.xml</loc>
+  <lastmod>2019-12-31T19:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>

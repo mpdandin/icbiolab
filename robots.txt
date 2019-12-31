@@ -1,4 +1,4 @@
-Sitemap: https://icbiolab.org/sitemapindex.xml
+Sitemap: https://www.icbiolab.org/sitemapindex.xml
 
 User-Agent: *
-Host: icbiolab.org
+Host: www.icbiolab.org

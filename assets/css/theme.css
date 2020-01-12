@@ -1,9 +1,22 @@
+/***** CUSTOM CSS  ****/
+
 html {
 
     scroll-behavior: smooth; 
 
 }
 
+h4 , h5 {
+    color: #337ab7;
+    font-weight: bold;
+}
+.textecol {
+    margin-bottom: 10px;
+}
+
+.imagecol img {
+    margin-bottom: 10px;
+}
 @media only screen and (max-width: 496px) {
     .navbar-brand {
         height: 70px;
@@ -16,6 +29,7 @@ html {
         width : 80%;
     }
  }
+/***** CUSTOM CSS  ****/
 
 #container {
     width: 960px;

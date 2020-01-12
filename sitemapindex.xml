@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://www.icbiolab.org/galleries/rss.xml</loc>
-  <lastmod>2020-01-12T17:43:00Z</lastmod>
+  <lastmod>2020-01-12T18:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.icbiolab.org/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://www.icbiolab.org/sitemap.xml</loc>
-  <lastmod>2020-01-12T17:43:00Z</lastmod>
+  <lastmod>2020-01-12T18:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>

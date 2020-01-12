@@ -45,7 +45,7 @@
         <br>
         The course includes a lab component which will give students hands-on experience in the design and implementation of analog and digital circuits. Labs will employ both design using discrete, SSI, and MSI parts, as well as using CAD design tools.
         <br>
-        <a href="http://www.rezaghodssi.com/teaching">http://www.rezaghodssi.com/teaching</a>
+        
     </p>
     <br>
     
@@ -63,10 +63,15 @@
     :align: center   
 
 
-
 .. thumbnail:: /images/teaching_17238131685.jpg
     :alt: TAG
     :align: center   
+
+
+.. thumbnail:: /images/ceremony-02-700x700.jpg
+    :alt: TAG
+    :align: center   
+
 
 .. raw:: html
 

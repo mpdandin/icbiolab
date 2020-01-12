@@ -34,7 +34,7 @@
             <strong>Email:</strong> mdandin@andrew.cmu.edu<br>
             <strong>Phone:</strong> +1 412 268 6351<br>
         </p>
-        <a class="btn btn-primary" data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapse1">
+        <a class=" " data-toggle="collapse" href="#collapse1" role="button" aria-expanded="false" aria-controls="collapse1">
         Details...
         </a>
         
@@ -91,7 +91,7 @@
             <strong>Email:</strong> kaichun1@andrew.cmu.edu
         </p>
 
-        <a class="btn btn-primary" data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapse1">
+        <a class=" " data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapse1">
         Details...
         </a>
         <div class="collapse" id="collapse2">
@@ -130,7 +130,7 @@
             <strong>Email:</strong> lejohnso@andrew.cmu.edu
         </p>
 
-        <a class="btn btn-primary" data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapse1">
+        <a class=" " data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapse1">
         Details...
         </a>
         <div class="collapse" id="collapse3">

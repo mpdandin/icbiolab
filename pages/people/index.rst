@@ -91,7 +91,7 @@
             <strong>Email:</strong> kaichun1@andrew.cmu.edu
         </p>
 
-        <a class=" " data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapse1">
+        <a class=" " data-toggle="collapse" href="#collapse2" role="button" aria-expanded="false" aria-controls="collapse2">
         Details...
         </a>
         <div class="collapse" id="collapse2">
@@ -130,7 +130,7 @@
             <strong>Email:</strong> lejohnso@andrew.cmu.edu
         </p>
 
-        <a class=" " data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapse1">
+        <a class=" " data-toggle="collapse" href="#collapse3" role="button" aria-expanded="false" aria-controls="collapse3">
         Details...
         </a>
         <div class="collapse" id="collapse3">

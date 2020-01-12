@@ -68,7 +68,7 @@
     :align: center   
 
 
-.. thumbnail:: /images/ceremony-02-700x700.jpg
+.. thumbnail:: /images/teaching_ceremony-02.jpg
     :alt: TAG
     :align: center   
 

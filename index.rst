@@ -11,7 +11,7 @@
 
 	.. raw:: html
 
-		<h3> Marc Dandin</h3>
+		<h3> Principal Investigator: Marc Dandin, PhD</h3>
 		<div class="text-justify">
 		We are in the Department of Electrical and Computer Engineering at Carnegie Mellon University in the heart of Pittsburgh. Our research focuses on the development of novel integrated circuits and microsystems technologies for interfacing electronics with biological systems. Please reach out to us if you would like to collaborate, join our lab, or if you have questions or comments. 
 		</div>
@@ -30,7 +30,8 @@
 	.. raw:: html
 		
 		<br>
-		<p><strong>FEATURED RESEARCH</strong></p><p>
+		<p><strong>FEATURED RESEARCH*</strong></p><p>
+		*Ongoing collaboration with Prof. Abshire and Prof. Smela (University of Maryland, College Park)
 		<a href="https://doi.org/10.1016/j.bios.2019.111501" style="text-decoration:none;">
 		B. Senevirathna, S. Lu, M. Dandin, J. Basile, E. Smela, and P. Abshire, “High resolution monitoring of chemotherapeutic agent potency in cancer cells using a CMOS capacitance biosensor,” Biosensors and Bioelectronics, vol. 142, p. 111501, Oct. 2019.
 		</a>

@@ -31,7 +31,7 @@
 		
 		<br>
 		<p><strong>FEATURED RESEARCH*</strong></p><p>
-		*Ongoing collaboration with Prof. Abshire and Prof. Smela (University of Maryland, College Park<br>
+		*Ongoing collaboration with Prof. Abshire and Prof. Smela (University of Maryland, College Park)<br>
 		<a href="https://doi.org/10.1016/j.bios.2019.111501" style="text-decoration:none;">
 		B. Senevirathna, S. Lu, M. Dandin, J. Basile, E. Smela, and P. Abshire, “High resolution monitoring of chemotherapeutic agent potency in cancer cells using a CMOS capacitance biosensor,” Biosensors and Bioelectronics, vol. 142, p. 111501, Oct. 2019.
 		</a>

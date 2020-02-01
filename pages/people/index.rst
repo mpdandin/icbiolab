@@ -87,7 +87,7 @@
         <p>
             Carnegie Mellon University<br>
             Department of Electrical and Computer Engineering<br>
-            Co-advisor: Larry Pillegi, Ph.D.<br>
+            Co-advisor: Larry Pileggi, Ph.D.<br>
             <strong>Email:</strong> kaichun1@andrew.cmu.edu
         </p>
 

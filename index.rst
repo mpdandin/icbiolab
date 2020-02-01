@@ -13,7 +13,7 @@
 
 		<h3> Principal Investigator: Marc Dandin, PhD</h3>
 		<div class="text-justify">
-		We are in the Department of Electrical and Computer Engineering at Carnegie Mellon University in the heart of Pittsburgh. Our research focuses on the development of novel integrated circuits and microsystems technologies for interfacing electronics with biological systems. Please reach out to us if you would like to collaborate, join our lab, or if you have questions or comments. 
+		We are in the Department of Electrical and Computer Engineering at Carnegie Mellon University in the heart of Pittsburgh. Our research focuses on the development of novel integrated circuits and microsystems technologies for interfacing electronics with biological systems. Please reach out to us if you would like to collaborate  with us or join our lab, or if you have questions or comments. 
 		</div>
 		<br>
 		Contact: <a href="mailto:mdandin@andrew.cmu.edu">mdandin@andrew.cmu.edu</a>
